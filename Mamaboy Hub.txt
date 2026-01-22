@@ -8580,9 +8580,9 @@ if World3 then
                                 EquipWeapon('Tushita')
                             elseif not u1012 then
                                 game.StarterGui:SetCore('SendNotification', {
-                                    Title = 'Mamaboy Hub',
+                                    Title = 'Dum Hub',
                                     Text = 'Use! - Yama or Tushita',
-                                    con = 'rbxassetid://88198148103261',
+                                    con = 'rbxassetid://80424431930361',
                                     Duration = 10,
                                 })
 
